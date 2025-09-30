@@ -1,0 +1,62 @@
+{
+	"code": 0,
+	"data": {
+		"image": {
+			"url": ""
+		},
+		"voices": [
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/images/chinese.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_zh.mp3",
+				"name": {
+				    "default":"标准普通话版",
+					"zh":"标准普通话版",
+					"en":"Chinese"
+				},
+				"desc":{
+				    "default":"经典女声",
+					"zh":"经典女声",
+					"en":"female voice"
+				},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/ZH.tar.gz",
+				"md5sum": "0ceceede8abcc6bf441793a12d688c3f",
+				"size":1152514,
+				"id": "ZH"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/images/english.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_en.mp3",
+				"name": {
+				    "default":"English",
+					"zh":"英语"
+				},
+				"desc":{
+				    "default":"female voice",
+					"zh":"经典女声",
+					"en":"female voice"
+				},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
+				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
+				"size":1161119,
+				"id": "EN"
+			},
+			{
+				"icon": "https://raw.githubusercontent.com/stuffcreator1337/stable-diffusion/refs/heads/main/cabal.png",
+				"listen": "https://github.com/stuffcreator1337/stable-diffusion/raw/refs/heads/main/00-i500.mp3",
+				"name": {
+				    "default":"Cabal",
+					"zh":"英语"
+				},
+				"desc":{
+				    "default":"cabal voice",
+					"zh":"经典女声",
+					"en":"cabal voice"
+				},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
+				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
+				"size":1161119,
+				"id": "TS"
+			}
+		]
+	}
+}
