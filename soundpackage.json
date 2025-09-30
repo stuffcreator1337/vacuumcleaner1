@@ -52,9 +52,9 @@
 					"zh":"经典女声",
 					"en":"cabal voice"
 				},
-				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
-				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
-				"size":1161119,
+				"download": "https://github.com/stuffcreator1337/vacuumcleaner1/raw/refs/heads/main/TS.tar.gz",
+				"md5sum": "5b520828ab515b5c62f9083a2b78dce5",
+				"size":2512176,
 				"id": "TS"
 			}
 		]
