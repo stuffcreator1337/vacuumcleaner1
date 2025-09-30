@@ -41,8 +41,8 @@
 				"id": "EN"
 			},
 			{
-				"icon": "https://raw.githubusercontent.com/stuffcreator1337/stable-diffusion/refs/heads/main/cabal.png",
-				"listen": "https://github.com/stuffcreator1337/stable-diffusion/raw/refs/heads/main/00-i500.mp3",
+				"icon": "https://raw.githubusercontent.com/stuffcreator1337/vacuumcleaner1/refs/heads/main/cabal.png",
+				"listen": "https://github.com/stuffcreator1337/vacuumcleaner1/raw/refs/heads/main/00-i500.mp3",
 				"name": {
 				    "default":"Cabal",
 					"zh":"英语"
